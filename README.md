@@ -16,7 +16,7 @@ Examples
 
 original
 
-![alt tag]https://github.com/HackBulgaria/Core-Java-2/blob/master/Application/4-Convert-To-Greyscale/images/john-romero.jpg?raw=true
+![alt tag](https://github.com/HackBulgaria/Core-Java-2/blob/master/Application/4-Convert-To-Greyscale/images/john-romero.jpg?raw=true)
 
 greyscale
 
