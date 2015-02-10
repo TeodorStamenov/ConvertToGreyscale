@@ -20,6 +20,6 @@ original
 
 greyscale
 
-https://github.com/HackBulgaria/Core-Java-2/blob/master/Application/4-Convert-To-Greyscale/images/john-romero-greyscale.jpg
+![alt tag](https://github.com/HackBulgaria/Core-Java-2/blob/master/Application/4-Convert-To-Greyscale/images/john-romero-greyscale.jpg?raw=true)
 
 WARNING! You are not allowed to use any libraries, you have to write your own algorithm!
